@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = E_Learning
+build_property.RootNamespace = E_Learning
+build_property.ProjectDir = C:\Users\Nitesh Yadav\Downloads\FinalEDU (2)\FinalEDU\E-Learning\E-Learning\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Nitesh Yadav\Downloads\FinalEDU (2)\FinalEDU\E-Learning\E-Learning
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/AddCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ291cnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/AddCourseCont.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ291cnNlQ29udC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/AddMaterial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTWF0ZXJpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/AddQuizes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUXVpemVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/ContentModeration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGVudE1vZGVyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/ShowOrderHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd09yZGVySGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Admin/UserManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlck1hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQWJvdXRVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/Calender.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQ2FsZW5kZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/Certificate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQ2VydGlmaWNhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQ29udGFjdFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/CourseMainDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQ291cnNlTWFpbkRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQ291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcSW52b2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/ViewCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcVmlld0NvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/HomePage/ViewCourseContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcVmlld0NvdXJzZUNvbnRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Notify/AddPromotion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZ5XEFkZFByb21vdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Notify/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-dgp11mn191
+
+[C:/Users/Nitesh Yadav/Downloads/FinalEDU (2)/FinalEDU/E-Learning/E-Learning/Views/Shared/_LayoutUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-18xglbgpj8

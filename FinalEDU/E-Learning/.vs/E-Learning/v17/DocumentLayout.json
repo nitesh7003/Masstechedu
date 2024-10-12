@@ -1,0 +1,797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\wwwroot\\adminassets\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\wwwroot\\adminassets\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\wwwroot\\adminassets\\img\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\wwwroot\\adminassets\\img\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\wwwroot\\adminassets\\img\\invoice-circle1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\wwwroot\\adminassets\\img\\invoice-circle1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\wwwroot\\adminassets\\fonts\\feather144f.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\wwwroot\\adminassets\\fonts\\feather144f.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\showorderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\showorderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\contentmoderation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\contentmoderation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\addquizes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\addquizes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\addmaterial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\addmaterial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\addcoursecont.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\addcoursecont.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\admin\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\admin\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\controllers\\notifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\controllers\\notifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\course\\addcoursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\course\\addcoursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\viewcoursecontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\viewcoursecontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\coursemaindetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\coursemaindetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\viewcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\viewcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\certificate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\certificate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\comments\\coursedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\comments\\coursedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\course\\certificateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\course\\certificateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\dashboard\\combinedviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\dashboard\\combinedviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\comments\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\comments\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\review\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\review\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\course\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\course\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\notify\\addpromotion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\notify\\addpromotion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\notify\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\notify\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\views\\homepage\\calender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\homepage\\calender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\dashboard\\monthlyamountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\dashboard\\monthlyamountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|c:\\users\\nitesh yadav\\downloads\\finaledu (2)\\finaledu\\e-learning\\e-learning\\models\\dashboard\\registrationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF857700-7331-4FC2-870A-CC0BBAFF5639}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\models\\dashboard\\registrationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePageController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\HomePageController.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Controllers\\HomePageController.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\HomePageController.cs",
+              "RelativeToolTip": "E-Learning\\Controllers\\HomePageController.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAIwLoBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:23:21.237Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CourseMainDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\CourseMainDetails.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\CourseMainDetails.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\CourseMainDetails.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\CourseMainDetails.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAFwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:47:36.361Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CourseDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Comments\\CourseDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Comments\\CourseDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Comments\\CourseDetailsViewModel.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Comments\\CourseDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:41:24.222Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "E-Learning\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "E-Learning\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-09T04:48:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "E-Learning\\wwwroot\\AdminAssets\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "E-Learning\\wwwroot\\AdminAssets\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-09T04:48:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.png -  [English (United Kingdom)] - PNG [742x815, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\img\\login.png",
+              "RelativeDocumentMoniker": "E-Learning\\wwwroot\\AdminAssets\\img\\login.png",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\img\\login.png -  [English (United Kingdom)] - PNG [742x815, 32 bit, PNG]",
+              "RelativeToolTip": "E-Learning\\wwwroot\\AdminAssets\\img\\login.png -  [English (United Kingdom)] - PNG [742x815, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-09T04:48:11.732Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [742x815, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "invoice-circle1.png -  [English (United Kingdom)] - PNG [84x116, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\img\\invoice-circle1.png",
+              "RelativeDocumentMoniker": "E-Learning\\wwwroot\\AdminAssets\\img\\invoice-circle1.png",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\img\\invoice-circle1.png -  [English (United Kingdom)] - PNG [84x116, 32 bit, PNG]",
+              "RelativeToolTip": "E-Learning\\wwwroot\\AdminAssets\\img\\invoice-circle1.png -  [English (United Kingdom)] - PNG [84x116, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-09T04:48:08.73Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [84x116, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feather144f.svg",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\fonts\\Feather144f.svg",
+              "RelativeDocumentMoniker": "E-Learning\\wwwroot\\AdminAssets\\fonts\\Feather144f.svg",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\wwwroot\\AdminAssets\\fonts\\Feather144f.svg",
+              "RelativeToolTip": "E-Learning\\wwwroot\\AdminAssets\\fonts\\Feather144f.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-09T04:48:01.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "E-Learning\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswIYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:20:15.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAACIBAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:02:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\UserManagement.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\UserManagement.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\UserManagement.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\UserManagement.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T10:17:20.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowOrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\ShowOrderHistory.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\ShowOrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\ShowOrderHistory.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\ShowOrderHistory.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T15:49:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:41:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContentModeration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\ContentModeration.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\ContentModeration.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\ContentModeration.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\ContentModeration.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T11:22:47.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddQuizes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddQuizes.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\AddQuizes.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddQuizes.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\AddQuizes.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T11:50:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddMaterial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddMaterial.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\AddMaterial.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddMaterial.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\AddMaterial.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T09:52:35.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCourseCont.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddCourseCont.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\AddCourseCont.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddCourseCont.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\AddCourseCont.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAFUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T15:07:52.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddCourse.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Admin\\AddCourse.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Admin\\AddCourse.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Admin\\AddCourse.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T14:57:25.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "E-Learning\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:38:07.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotifyController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\NotifyController.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Controllers\\NotifyController.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\NotifyController.cs",
+              "RelativeToolTip": "E-Learning\\Controllers\\NotifyController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAqwEsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:53:15.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Learning\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:34:41.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T04:34:26.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LayoutAdmin.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml.css",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml.css",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml.css",
+              "RelativeToolTip": "E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-09T04:34:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T16:21:50.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Learning\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\appsettings.json",
+              "RelativeToolTip": "E-Learning\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T04:33:28.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T09:18:08.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Index.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\Index.cshtml",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAvwE4BAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T11:49:37.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:06:22.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Program.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Program.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Program.cs",
+              "RelativeToolTip": "E-Learning\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:20:35.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\ContactUs.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\ContactUs.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T04:39:44.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Cart.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Cart.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\Cart.cshtml",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAGQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T11:49:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddCourseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Course\\AddCourseCategory.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Course\\AddCourseCategory.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Course\\AddCourseCategory.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Course\\AddCourseCategory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:43:58.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ViewCourseContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\ViewCourseContent.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\ViewCourseContent.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\ViewCourseContent.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\ViewCourseContent.cshtml",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAAJAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T12:17:41.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\ViewCourse.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\ViewCourse.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\ViewCourse.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\ViewCourse.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T11:24:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Dashboard.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\Dashboard.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAswHoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:19:35.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Certificate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Certificate.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\Certificate.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Certificate.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\Certificate.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T09:57:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CertificateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Course\\CertificateViewModel.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Course\\CertificateViewModel.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Course\\CertificateViewModel.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Course\\CertificateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:55:47.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CombinedViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Dashboard\\CombinedViewModel.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Dashboard\\CombinedViewModel.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Dashboard\\CombinedViewModel.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Dashboard\\CombinedViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:37:43.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Comments\\Comments.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Comments\\Comments.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Comments\\Comments.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Comments\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:27:29.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Review\\Review.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Review\\Review.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Review\\Review.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Review\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:08:25.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Course\\Quiz.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Course\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Course\\Quiz.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Course\\Quiz.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:21:30.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\Invoice.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Invoice.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\Invoice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T11:49:24.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddPromotion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Notify\\AddPromotion.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Notify\\AddPromotion.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Notify\\AddPromotion.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Notify\\AddPromotion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T15:47:10.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Notify\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Notify\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\Notify\\Index.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Notify\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T15:48:40.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Calender.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Calender.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\HomePage\\Calender.cshtml",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Views\\HomePage\\Calender.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\HomePage\\Calender.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFcAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:23:18.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MonthlyAmountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Dashboard\\MonthlyAmountViewModel.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Dashboard\\MonthlyAmountViewModel.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Dashboard\\MonthlyAmountViewModel.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Dashboard\\MonthlyAmountViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:37:21.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegistrationData.cs",
+              "DocumentMoniker": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Dashboard\\RegistrationData.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Models\\Dashboard\\RegistrationData.cs",
+              "ToolTip": "C:\\Users\\Nitesh Yadav\\Downloads\\FinalEDU (2)\\FinalEDU\\E-Learning\\E-Learning\\Models\\Dashboard\\RegistrationData.cs",
+              "RelativeToolTip": "E-Learning\\Models\\Dashboard\\RegistrationData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:36:59.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
